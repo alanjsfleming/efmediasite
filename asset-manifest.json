@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/efmediasite/static/css/main.073c9b0a.css",
-    "main.js": "/efmediasite/static/js/main.e3f3a4d8.js",
-    "static/js/787.690d8d11.chunk.js": "/efmediasite/static/js/787.690d8d11.chunk.js",
-    "static/media/logo.svg": "/efmediasite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/efmediasite/static/css/main.7caed4a2.css",
+    "main.js": "/efmediasite/static/js/main.7b841d23.js",
     "index.html": "/efmediasite/index.html",
-    "main.073c9b0a.css.map": "/efmediasite/static/css/main.073c9b0a.css.map",
-    "main.e3f3a4d8.js.map": "/efmediasite/static/js/main.e3f3a4d8.js.map",
-    "787.690d8d11.chunk.js.map": "/efmediasite/static/js/787.690d8d11.chunk.js.map"
+    "main.7caed4a2.css.map": "/efmediasite/static/css/main.7caed4a2.css.map",
+    "main.7b841d23.js.map": "/efmediasite/static/js/main.7b841d23.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e3f3a4d8.js"
+    "static/css/main.7caed4a2.css",
+    "static/js/main.7b841d23.js"
   ]
 }

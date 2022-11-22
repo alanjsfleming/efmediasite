@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/efmedia.co/static/css/main.57693fe6.css",
-    "main.js": "/efmedia.co/static/js/main.8ae30f87.js",
-    "static/media/Logo_3_Transparent.png": "/efmedia.co/static/media/Logo_3_Transparent.b5b2f5776589d3e96eb1.png",
-    "index.html": "/efmedia.co/index.html",
-    "main.57693fe6.css.map": "/efmedia.co/static/css/main.57693fe6.css.map",
-    "main.8ae30f87.js.map": "/efmedia.co/static/js/main.8ae30f87.js.map"
+    "main.css": "/static/css/main.57693fe6.css",
+    "main.js": "/static/js/main.c57053b2.js",
+    "static/media/Logo_3_Transparent.png": "/static/media/Logo_3_Transparent.b5b2f5776589d3e96eb1.png",
+    "index.html": "/index.html",
+    "main.57693fe6.css.map": "/static/css/main.57693fe6.css.map",
+    "main.c57053b2.js.map": "/static/js/main.c57053b2.js.map"
   },
   "entrypoints": [
     "static/css/main.57693fe6.css",
-    "static/js/main.8ae30f87.js"
+    "static/js/main.c57053b2.js"
   ]
 }
